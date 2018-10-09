@@ -3,5 +3,5 @@
 cmake/*
 !cmake/CMakeLists.txt
 !cmake/tp
-
+!cmake/eigen
 
