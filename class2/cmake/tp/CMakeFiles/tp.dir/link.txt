@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/tp.dir/tp.cxx.o  -o tp -rdynamic 

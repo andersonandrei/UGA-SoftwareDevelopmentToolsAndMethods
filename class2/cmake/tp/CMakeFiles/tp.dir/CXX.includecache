@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/user/0/.base/dasiande/home/Documents/uga-sdtm/class2/cmake/tp/tp.cxx
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+

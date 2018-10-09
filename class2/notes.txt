@@ -1,0 +1,4 @@
+For each folder or program that we are doing we should create a CMakeLists.txt into these folders (like tp folder).
+
+To download the Eigen:
+	wget http://bitbucket.org/eigen/eigen/get/3.2.10.tar.gz
