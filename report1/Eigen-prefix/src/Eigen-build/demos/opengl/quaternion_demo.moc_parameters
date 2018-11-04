@@ -1,0 +1,13 @@
+-I/user/2/.base/burdaa/home/Documents/eigen/eigen_library
+-I/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build
+-I/usr/include
+-I/usr/include/QtOpenGL
+-I/usr/include/QtGui
+-I/usr/include/QtCore
+-I/usr/include
+-DQT_OPENGL_LIB
+-DQT_GUI_LIB
+-DQT_CORE_LIB
+-o
+/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/demos/opengl/quaternion_demo.moc
+/user/2/.base/burdaa/home/Documents/eigen/eigen_library/demos/opengl/quaternion_demo.h

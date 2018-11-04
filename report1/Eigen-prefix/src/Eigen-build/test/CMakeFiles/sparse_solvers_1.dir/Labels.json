@@ -1,0 +1,16 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/andrei/Documentos/uga/mosig/courses/softwareDevelopment/cmake/eigen_library/test/sparse_solvers.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"BuildOfficial"
+		],
+		"name" : "sparse_solvers_1"
+	}
+}

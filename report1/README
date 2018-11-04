@@ -1,0 +1,55 @@
+Software Development Tools and Methods Practical Session.
+
+Group:
+Anderson Andrei DA SILVA
+Artyom BURDA
+Vadim SUSHKO
+
+------------------------------------------------------------------
+You will find in this repository the codes about these exercises.
+------------------------------------------------------------------
+This is organized this way:
+
+//Provides the compilation of all project
+CMakeLists.txt  
+
+//Provides measures with eigen
+eigen
+	eigen.cxx
+	CMakeLists.txt
+
+//Provides the Eigen Libraries
+eigen_library
+	/*Eigen_library files*/
+Eigen-prefix
+	/*Eigen-prefix files*/
+
+//Provides our own tests
+tests
+	tests.cxx
+	CMakeFiles.txt
+
+//Provides measures with ublas
+ublas
+	ublas.cxx
+	CMakeFiles.txt
+------------------------------------------------------------------
+To compile all this you should do:
+
+$ cmake .
+$ make
+
+And to execute the programs:
+
+#Eigen
+$ cd eigen
+$ ./EIGEN
+
+#Tests
+$ cd tests
+$ ./TEST1
+
+#Ublas
+$ cd ublas
+$ ./UBLAS
+

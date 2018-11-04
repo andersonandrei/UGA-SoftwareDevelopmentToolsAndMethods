@@ -1,0 +1,286 @@
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_wd981 failed with the following output:
+Change Dir: /user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3354548397/fast"
+gmake[3]: Entering directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3354548397.dir/build.make CMakeFiles/cmTryCompileExec3354548397.dir/build
+gmake[4]: Entering directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3354548397.dir/src.cxx.o
+/usr/bin/c++    -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -DCOMPILER_SUPPORT_wd981 -Werror   -wd981 -o CMakeFiles/cmTryCompileExec3354548397.dir/src.cxx.o -c /user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-wd981'
+gmake[4]: *** [CMakeFiles/cmTryCompileExec3354548397.dir/src.cxx.o] Error 1
+gmake[4]: Leaving directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+gmake[3]: *** [cmTryCompileExec3354548397/fast] Error 2
+gmake[3]: Leaving directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_wd2304 failed with the following output:
+Change Dir: /user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec479317475/fast"
+gmake[3]: Entering directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec479317475.dir/build.make CMakeFiles/cmTryCompileExec479317475.dir/build
+gmake[4]: Entering directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec479317475.dir/src.cxx.o
+/usr/bin/c++    -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -DCOMPILER_SUPPORT_wd2304 -Werror   -wd2304 -o CMakeFiles/cmTryCompileExec479317475.dir/src.cxx.o -c /user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-wd2304'
+gmake[4]: *** [CMakeFiles/cmTryCompileExec479317475.dir/src.cxx.o] Error 1
+gmake[4]: Leaving directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+gmake[3]: *** [cmTryCompileExec479317475/fast] Error 2
+gmake[3]: Leaving directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_STRICTANSI failed with the following output:
+Change Dir: /user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2398665977/fast"
+gmake[3]: Entering directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2398665977.dir/build.make CMakeFiles/cmTryCompileExec2398665977.dir/build
+gmake[4]: Entering directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2398665977.dir/src.cxx.o
+/usr/bin/c++    -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -DCOMPILER_SUPPORT_STRICTANSI -Werror   -strict-ansi -o CMakeFiles/cmTryCompileExec2398665977.dir/src.cxx.o -c /user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-strict-ansi'
+gmake[4]: *** [CMakeFiles/cmTryCompileExec2398665977.dir/src.cxx.o] Error 1
+gmake[4]: Leaving directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+gmake[3]: *** [cmTryCompileExec2398665977/fast] Error 2
+gmake[3]: Leaving directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_Qunusedarguments failed with the following output:
+Change Dir: /user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3128498820/fast"
+gmake[3]: Entering directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3128498820.dir/build.make CMakeFiles/cmTryCompileExec3128498820.dir/build
+gmake[4]: Entering directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3128498820.dir/src.cxx.o
+/usr/bin/c++    -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -DCOMPILER_SUPPORT_Qunusedarguments -Werror   -Qunused-arguments -o CMakeFiles/cmTryCompileExec3128498820.dir/src.cxx.o -c /user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Qunused-arguments'
+gmake[4]: *** [CMakeFiles/cmTryCompileExec3128498820.dir/src.cxx.o] Error 1
+gmake[4]: Leaving directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+gmake[3]: *** [cmTryCompileExec3128498820/fast] Error 2
+gmake[3]: Leaving directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Determining if the Q_WS_WIN exist failed with the following output:
+Change Dir: /user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3771433482/fast"
+gmake[3]: Entering directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3771433482.dir/build.make CMakeFiles/cmTryCompileExec3771433482.dir/build
+gmake[4]: Entering directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3771433482.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++    -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -ansi -O1 -g1    -o CMakeFiles/cmTryCompileExec3771433482.dir/CheckSymbolExists.cxx.o -c /user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx: In function ‘int main(int, char**)’:
+/user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: ‘Q_WS_WIN’ was not declared in this scope
+   return ((int*)(&Q_WS_WIN))[argc];
+                   ^
+gmake[4]: *** [CMakeFiles/cmTryCompileExec3771433482.dir/CheckSymbolExists.cxx.o] Error 1
+gmake[4]: Leaving directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+gmake[3]: *** [cmTryCompileExec3771433482/fast] Error 2
+gmake[3]: Leaving directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+
+File /user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <QtCore/qglobal.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef Q_WS_WIN
+  return ((int*)(&Q_WS_WIN))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the Q_WS_QWS exist failed with the following output:
+Change Dir: /user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2416041194/fast"
+gmake[3]: Entering directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2416041194.dir/build.make CMakeFiles/cmTryCompileExec2416041194.dir/build
+gmake[4]: Entering directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2416041194.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++    -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -ansi -O1 -g1    -o CMakeFiles/cmTryCompileExec2416041194.dir/CheckSymbolExists.cxx.o -c /user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx: In function ‘int main(int, char**)’:
+/user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: ‘Q_WS_QWS’ was not declared in this scope
+   return ((int*)(&Q_WS_QWS))[argc];
+                   ^
+gmake[4]: Leaving directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+gmake[4]: *** [CMakeFiles/cmTryCompileExec2416041194.dir/CheckSymbolExists.cxx.o] Error 1
+gmake[3]: Leaving directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+gmake[3]: *** [cmTryCompileExec2416041194/fast] Error 2
+
+File /user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <QtCore/qglobal.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef Q_WS_QWS
+  return ((int*)(&Q_WS_QWS))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the Q_WS_MAC exist failed with the following output:
+Change Dir: /user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3880115687/fast"
+gmake[3]: Entering directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3880115687.dir/build.make CMakeFiles/cmTryCompileExec3880115687.dir/build
+gmake[4]: Entering directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3880115687.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++    -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -ansi -O1 -g1    -o CMakeFiles/cmTryCompileExec3880115687.dir/CheckSymbolExists.cxx.o -c /user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx: In function ‘int main(int, char**)’:
+/user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: ‘Q_WS_MAC’ was not declared in this scope
+   return ((int*)(&Q_WS_MAC))[argc];
+                   ^
+gmake[4]: Leaving directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+gmake[4]: *** [CMakeFiles/cmTryCompileExec3880115687.dir/CheckSymbolExists.cxx.o] Error 1
+gmake[3]: *** [cmTryCompileExec3880115687/fast] Error 2
+gmake[3]: Leaving directory `/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+
+File /user/2/burdaa/Documents/eigen/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <QtCore/qglobal.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef Q_WS_MAC
+  return ((int*)(&Q_WS_MAC))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_wd981 failed with the following output:
+Change Dir: /home/andrei/Documentos/uga/mosig/courses/softwareDevelopment/cmake/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_6d0e9/fast"
+make[3]: Entering directory '/home/andrei/Documentos/uga/mosig/courses/softwareDevelopment/cmake/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_6d0e9.dir/build.make CMakeFiles/cmTC_6d0e9.dir/build
+make[4]: Entering directory '/home/andrei/Documentos/uga/mosig/courses/softwareDevelopment/cmake/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_6d0e9.dir/src.cxx.o
+/usr/bin/c++     -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -DCOMPILER_SUPPORT_wd981 -Werror   -wd981 -o CMakeFiles/cmTC_6d0e9.dir/src.cxx.o -c /home/andrei/Documentos/uga/mosig/courses/softwareDevelopment/cmake/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-wd981'
+CMakeFiles/cmTC_6d0e9.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_6d0e9.dir/src.cxx.o' failed
+make[4]: *** [CMakeFiles/cmTC_6d0e9.dir/src.cxx.o] Error 1
+make[4]: Leaving directory '/home/andrei/Documentos/uga/mosig/courses/softwareDevelopment/cmake/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_6d0e9/fast' failed
+make[3]: *** [cmTC_6d0e9/fast] Error 2
+make[3]: Leaving directory '/home/andrei/Documentos/uga/mosig/courses/softwareDevelopment/cmake/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_wd2304 failed with the following output:
+Change Dir: /home/andrei/Documentos/uga/mosig/courses/softwareDevelopment/cmake/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_3ef1b/fast"
+make[3]: Entering directory '/home/andrei/Documentos/uga/mosig/courses/softwareDevelopment/cmake/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_3ef1b.dir/build.make CMakeFiles/cmTC_3ef1b.dir/build
+make[4]: Entering directory '/home/andrei/Documentos/uga/mosig/courses/softwareDevelopment/cmake/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_3ef1b.dir/src.cxx.o
+/usr/bin/c++     -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -DCOMPILER_SUPPORT_wd2304 -Werror   -wd2304 -o CMakeFiles/cmTC_3ef1b.dir/src.cxx.o -c /home/andrei/Documentos/uga/mosig/courses/softwareDevelopment/cmake/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-wd2304'
+CMakeFiles/cmTC_3ef1b.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_3ef1b.dir/src.cxx.o' failed
+make[4]: *** [CMakeFiles/cmTC_3ef1b.dir/src.cxx.o] Error 1
+make[4]: Leaving directory '/home/andrei/Documentos/uga/mosig/courses/softwareDevelopment/cmake/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_3ef1b/fast' failed
+make[3]: *** [cmTC_3ef1b/fast] Error 2
+make[3]: Leaving directory '/home/andrei/Documentos/uga/mosig/courses/softwareDevelopment/cmake/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_STRICTANSI failed with the following output:
+Change Dir: /home/andrei/Documentos/uga/mosig/courses/softwareDevelopment/cmake/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_9ff99/fast"
+make[3]: Entering directory '/home/andrei/Documentos/uga/mosig/courses/softwareDevelopment/cmake/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_9ff99.dir/build.make CMakeFiles/cmTC_9ff99.dir/build
+make[4]: Entering directory '/home/andrei/Documentos/uga/mosig/courses/softwareDevelopment/cmake/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_9ff99.dir/src.cxx.o
+/usr/bin/c++     -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -DCOMPILER_SUPPORT_STRICTANSI -Werror   -strict-ansi -o CMakeFiles/cmTC_9ff99.dir/src.cxx.o -c /home/andrei/Documentos/uga/mosig/courses/softwareDevelopment/cmake/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-strict-ansi'; did you mean '-fstrict-enums'?
+CMakeFiles/cmTC_9ff99.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_9ff99.dir/src.cxx.o' failed
+make[4]: *** [CMakeFiles/cmTC_9ff99.dir/src.cxx.o] Error 1
+make[4]: Leaving directory '/home/andrei/Documentos/uga/mosig/courses/softwareDevelopment/cmake/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_9ff99/fast' failed
+make[3]: *** [cmTC_9ff99/fast] Error 2
+make[3]: Leaving directory '/home/andrei/Documentos/uga/mosig/courses/softwareDevelopment/cmake/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_Qunusedarguments failed with the following output:
+Change Dir: /home/andrei/Documentos/uga/mosig/courses/softwareDevelopment/cmake/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_a7fea/fast"
+make[3]: Entering directory '/home/andrei/Documentos/uga/mosig/courses/softwareDevelopment/cmake/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_a7fea.dir/build.make CMakeFiles/cmTC_a7fea.dir/build
+make[4]: Entering directory '/home/andrei/Documentos/uga/mosig/courses/softwareDevelopment/cmake/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_a7fea.dir/src.cxx.o
+/usr/bin/c++     -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -DCOMPILER_SUPPORT_Qunusedarguments -Werror   -Qunused-arguments -o CMakeFiles/cmTC_a7fea.dir/src.cxx.o -c /home/andrei/Documentos/uga/mosig/courses/softwareDevelopment/cmake/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Qunused-arguments'; did you mean '-Wunused-argument'?
+CMakeFiles/cmTC_a7fea.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_a7fea.dir/src.cxx.o' failed
+make[4]: *** [CMakeFiles/cmTC_a7fea.dir/src.cxx.o] Error 1
+make[4]: Leaving directory '/home/andrei/Documentos/uga/mosig/courses/softwareDevelopment/cmake/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_a7fea/fast' failed
+make[3]: *** [cmTC_a7fea/fast] Error 2
+make[3]: Leaving directory '/home/andrei/Documentos/uga/mosig/courses/softwareDevelopment/cmake/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0; }
+Compiling the Fortran compiler identification source file "CMakeFortranCompilerId.F" failed.
+Compiler: CMAKE_Fortran_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: -v
+
+The output was:
+No such file or directory
+
+
+Compiling the Fortran compiler identification source file "CMakeFortranCompilerId.F" failed.
+Compiler: CMAKE_Fortran_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: 
+
+The output was:
+No such file or directory
+
+
+Compiling the Fortran compiler identification source file "CMakeFortranCompilerId.F" failed.
+Compiler: CMAKE_Fortran_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: -c
+
+The output was:
+No such file or directory
+
+
+Compiling the Fortran compiler identification source file "CMakeFortranCompilerId.F" failed.
+Compiler: CMAKE_Fortran_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: -fpp
+
+The output was:
+No such file or directory
+
+

@@ -1,0 +1,7 @@
+-I/user/2/.base/burdaa/home/Documents/eigen/eigen_library
+-I/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build
+-I/usr/include
+-DNDEBUG
+-o
+/user/2/.base/burdaa/home/Documents/eigen/Eigen-prefix/src/Eigen-build/demos/mandelbrot/mandelbrot.moc
+/user/2/.base/burdaa/home/Documents/eigen/eigen_library/demos/mandelbrot/mandelbrot.h
